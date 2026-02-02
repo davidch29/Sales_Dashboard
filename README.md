@@ -46,6 +46,14 @@ Sales managers need visibility into which products, regions, and customer segmen
 
 6. **Category Leaders**: Technology leads revenue; Copiers is the most profitable sub-category ($55.6K profit)
 
+## Dashboard Preview
+
+### Sales Overview
+![Sales Overview](/sales_overview.png)
+
+### Customer Analysis
+![Customer Analysis](/customer_analysis.png)
+
 ## Technical Details
 
 **Tools Used:**
